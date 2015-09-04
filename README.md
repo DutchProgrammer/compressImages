@@ -27,4 +27,4 @@ http://www.advancemame.it/comp-download.html
 
 
 ### Example script
-see example.sh
+see [example.sh](example.sh)
