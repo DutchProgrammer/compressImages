@@ -16,13 +16,13 @@ done
 for file in $(find . -iname '*.jpg'); do 
 
 	#echo "compressing: $file"
-	jpegoptim --quiet -f --strip-all
+	jpegoptim --quiet -f --strip-all $file
 	#echo "compressed: $file";
 done
 
 for file in $(find . -iname '*.jpeg'); do 
 
 	#echo "compressing: $file"
-	jpegoptim --quiet -f --strip-all
+	jpegoptim --quiet -f --strip-all $file
 	#echo "compressed: $file";
 done
