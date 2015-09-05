@@ -1,7 +1,7 @@
 # compressImages
 Compress jpg, jpeg and png
 
-### centos 6
+### centos 6 and 7
 `yum install epel-release`
 
 ### install optipng
