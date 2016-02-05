@@ -16,7 +16,7 @@ Compress jpg, jpeg and png
 
 ###install advpng
 Download lastest version (tar.gz)
-http://www.advancemame.it/comp-download.html
+http://www.advancemame.it/download
 
 `wget https://github.com/amadvance/advancecomp/releases/download/v1.20/advancecomp-1.20.tar.gz`
 
